@@ -3,6 +3,19 @@
 ## Description
 It is a Simple Digital Clock made using Javascript
 
+#### Steps:
+---
+
+- Download or clone the repository
+```
+git clone https://github.com/kousik1608/Digital-Clock.git
+```
+- Go to the directory
+- Run the index.html file
+- Check the time
+
+<br/>
+
 #### Tech stack:
 ---
 - HTML5
